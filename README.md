@@ -1,5 +1,5 @@
 #swap.bat
 
-caps -> ctrl
-ctrl -> alt
-alt  -> caps
+caps -> ctrl<br>
+ctrl -> alt<br>
+alt  -> caps<br>
